@@ -1,0 +1,7 @@
+{
+  "name": "degoog-mcp",
+  "author": "Your Name",
+  "description": "MCP server plugin for degoog exposing a search tool",
+  "version": "0.1.0",
+  "license": "MIT"
+}

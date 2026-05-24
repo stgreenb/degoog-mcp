@@ -1,0 +1,5 @@
+openspec/
+.opencode/
+node_modules/
+bun.lock
+*.log
