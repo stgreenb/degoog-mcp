@@ -2,13 +2,13 @@
   "name": "degoog-mcp",
   "description": "MCP plugin exposing degoog search as an MCP tool for AI clients",
   "author": "stgreenb",
+  "repo-image": "https://avatars.githubusercontent.com/u/18483964",
   "plugins": [
     {
-      "path": ".",
+      "path": "plugins/degoog-mcp",
       "name": "Degoog MCP",
       "description": "Exposes degoog's multi-engine search as an MCP tool for AI clients like opencode, Claude Desktop, Cursor.",
-      "version": "0.1.0",
-      "type": "mcp"
+      "version": "0.1.0"
     }
   ]
 }
