@@ -24,7 +24,7 @@ const _disabledResponse = () => new Response(
 
 const plugin = {
   name: "Degoog MCP",
-  description: "Model Context Protocol server — exposes degoog search as an MCP tool for AI clients at /api/plugin/degoog-mcp/mcp",
+  description: "Model Context Protocol server — exposes degoog search as an MCP tool for AI clients at /api/plugin/stgreenb-degoog-mcp-degoog-mcp/mcp",
   trigger: "_mcp",
   isClientExposed: false,
   settingsSchema: [],
